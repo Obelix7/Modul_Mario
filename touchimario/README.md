@@ -37,7 +37,7 @@ Introduction to the Java based Touchi Mario
 git checkout -b main
 
 # 2. Pull the Touchi Mario repository
-git pull https://github.com/larsgross/touchimario.git
+git pull https://github.com/Obelix7/Modul_Mario.git
 
 ```
 
