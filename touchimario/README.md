@@ -3,7 +3,7 @@
   <h2>Touchi Mario</h2>
     </a>
 
-[**Greenfoot**](https://www.greenfoot.org/door) | [**Contact the developer**](mailto:lars.gross@edu.tbz.ch)
+[**Greenfoot**](https://www.greenfoot.org/door)
 
  <hr>
 <h3>
@@ -129,5 +129,6 @@ We are using the GPL-3.0 license.
   </h3>
 
 </div>
-- Lars Gross | lars.gross@edu.tbz.ch <br>
-- Vithun Kandeepan | vithun.kandeepan@edu.tbz.ch
+- Leandro Mansch
+- Gion Felchlin
+- Till Bischoff
